@@ -3,7 +3,17 @@
 #include <stdbool.h>
 int main()
 {
-	int test; 
+	int option = 0; 
+	switch (option)
+	{
+	case 1:
+
+		break;
+	case 2:
+
+		break;
+	default:
+		break;
 
 	return 0;
  }
